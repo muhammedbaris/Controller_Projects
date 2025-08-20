@@ -50,6 +50,7 @@ This dashboard demonstrates how controllers can:
 
 | Country Breakdown | Uncompleted Tasks | KPIs |
 |-------------------|-------------------|------|
-| ![Countries](./Dashboard_Screenshots/3.%20Tasks'%20Distirution%20on%20Countries.png) | ![Uncompleted](./Dashboard_Screenshots/4.%20Uncompleted%20Tasks%20across%20Departments.png) | ![KPI](./Dashboard_Screenshots/5.%20KPI.png) |
+| ![Countries](./Dashboard_Screenshots/3.%20Tasks'%20Distriution%20on%20Countries.png) | ![Uncompleted](./Dashboard_Screenshots/4.%20Uncompleted%20Tasks%20across%20Departments.png) | ![KPI](./Dashboard_Screenshots/5.%20KPI.png) |
 
 ---
+
